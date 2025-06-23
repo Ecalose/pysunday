@@ -13,5 +13,8 @@
 - [常量与路径](const-path.md)
 - [登录插件开发](login-plugin.md)
 - [工具插件开发](tools-plugin.md)
+- [创建插件](sunday_create.md)
+- [安装插件](sunday_install.md)
+- [自动生成插件readme](sunday_mkreadme.md)
 
 [开始使用]: ../getting-started.md
